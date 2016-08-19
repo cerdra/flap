@@ -1,2 +1,2 @@
-# flap
-🌵 Flap is a cactuar who mangages your Minecraft mods.
+#🌵 Flap
+Flap is a cactuar who mangages your Minecraft mods.
